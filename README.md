@@ -1,16 +1,19 @@
-# flutter_chat_app
+# Flutter Chat App with Clean Architecture and BLoC State Management
 
-A new Flutter project.
+Welcome to our Flutter Chat App repository! This app is built using Flutter framework, implementing clean architecture principles and BLoC (Business Logic Component) state management pattern.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This Flutter Chat App is designed to provide users with a seamless messaging experience, emphasizing clean code architecture for maintainability and scalability. It utilizes BLoC pattern to manage state efficiently and separate business logic from presentation
 
-A few resources to get you started if this is your first Flutter project:
+# Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Real-time Messaging: Instantly send and receive messages.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User Authentication: Securely authenticate users for personalized experience.
+
+Clean Architecture: Maintainable and scalable codebase following clean architecture principles.
+
+BLoC State Management: Efficiently manage application state using BLoC pattern.
+
+Customizable UI: Easily customize and extend UI components to match your design preferences.
